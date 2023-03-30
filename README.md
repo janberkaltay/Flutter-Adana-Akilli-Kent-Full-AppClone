@@ -12,7 +12,6 @@ Aynı zamanda uygulama içi görüntüleri aşağıda sizinle paylaşıyor olaca
 
 ![Screenshot_20230330_205043](https://user-images.githubusercontent.com/99503700/228924109-967bd66a-ae40-465d-a18b-22d335b4f2b2.png)
 
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/janberkaltay) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/janberkaltay/) 

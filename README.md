@@ -8,7 +8,7 @@ build\app\outputs\flutter-apk app_relase isimli apk yı indirebilirler.
 
 Aynı zamanda uygulama içi görüntüleri aşağıda sizinle paylaşıyor olacağım. Herkese iyi çalışmalar.
 
-![Screenshot_20230330_205043](https://user-images.githubusercontent.com/99503700/228923069-dc2d75e2-c478-4509-91eb-22102bb6b397.png)
+# ![Screenshot_20230330_205043](https://user-images.githubusercontent.com/99503700/228923069-dc2d75e2-c478-4509-91eb-22102bb6b397.png)
 ![Screenshot_20230330_205110](https://user-images.githubusercontent.com/99503700/228923087-b824cfc3-b92e-4984-a35c-1378371f27de.png)
 ![Screenshot_20230330_205130](https://user-images.githubusercontent.com/99503700/228923094-4e2419a2-b6f9-4788-87ca-6509a1567662.png)
 ![Screenshot_20230330_205150](https://user-images.githubusercontent.com/99503700/228923098-2e816af2-db8f-43fd-a702-e56707a27b2b.png)

@@ -11,6 +11,16 @@ Aynı zamanda uygulama içi görüntüleri aşağıda sizinle paylaşıyor olaca
 
 
 ![Screenshot_20230330_205043](https://user-images.githubusercontent.com/99503700/228924109-967bd66a-ae40-465d-a18b-22d335b4f2b2.png)
+![Screenshot_20230330_205110](https://user-images.githubusercontent.com/99503700/228926779-c670fa05-eeeb-4756-bc26-d47e056515bd.png)
+![Screenshot_20230330_205130](https://user-images.githubusercontent.com/99503700/228926788-7b0fa73a-3277-4541-9fe2-200cfd816d68.png)
+![Screenshot_20230330_205150](https://user-images.githubusercontent.com/99503700/228926790-b9850a86-f0d0-44dc-9754-c3139dd04e23.png)
+![Screenshot_20230330_205202](https://user-images.githubusercontent.com/99503700/228926793-047f2eed-06be-4b7c-a0cd-9393e72c71f6.png)
+![Screenshot_20230330_205217](https://user-images.githubusercontent.com/99503700/228926795-672f5810-db70-4511-b30a-bd99e8e1f8ed.png)
+![Screenshot_20230330_205237](https://user-images.githubusercontent.com/99503700/228926797-d3277726-7f68-4e5c-88dd-c025f29c09c5.png)
+![Screenshot_20230330_205350](https://user-images.githubusercontent.com/99503700/228926806-ee76edb5-77f0-4cf6-b386-09c29abbc36e.png)
+![Screenshot_20230330_205423](https://user-images.githubusercontent.com/99503700/228926812-5386f0ba-0dc0-492d-8e10-86f1b42c1011.png)
+
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/janberkaltay) 
